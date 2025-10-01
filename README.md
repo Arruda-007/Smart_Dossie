@@ -13,9 +13,9 @@ O projeto visa simular e analisar dados coletados por sensores antes da instala�
 
 ## 🛠️ Conteúdo do Repositório
 
-- `simulador_smart_office.py` → Script em **Python** que gera dados simulados dos sensores.  
+- `simulador.py` → Script em **Python** que gera dados simulados dos sensores.  
 - `smart_office_data.csv` → Arquivo com **2017 registros** (7 dias de simulação, intervalos de 15 minutos).  
-- `README.md` → Este documento explicativo.  
+- `README.md` → Explicação deste documento.  
 
 ## 📊 Estrutura dos Dados
 
